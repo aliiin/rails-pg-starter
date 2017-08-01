@@ -3,5 +3,5 @@
 ## Running Locally
 
 ### bundle install
-### rails start
+### rails server
 ### http://localhost:3000
